@@ -13,7 +13,6 @@ Features
 Technologies Used
 1. React: Frontend library used to build the user interface.
 2. React Router: For navigating between different pages of the application.
-3. Axios: For handling HTTP requests to interact with the backend API.
-4. Bootstrap/TailwindCSS: (Choose one if applicable) For styling the application.
-5. Node.js and Express: (If applicable) Backend technologies used for the server and API.
-6. MongoDB/MySQL/PostgreSQL: (Choose one if applicable) Database used to store event and user data.
+3. Bootstrap: For styling the application.
+4. Node.js: Backend technologies used for the server and API.
+5. MySQL: Database used to store event and user data.
