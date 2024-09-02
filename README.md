@@ -1,6 +1,7 @@
 Event Registration Project
 
 Overview
+
 This project is an event registration application built using React. The application allows users to browse events, register for them, and manage their registrations. It is designed to be user-friendly and efficient, providing a seamless experience for event organizers and participants alike.
 
 Features
